@@ -1,5 +1,4 @@
-#⚡ AR-QR Lab — Hyperthon 3-Hour Build
-Built at Hyperthon: World's First 3-Hour Speed Hackathon 🚀
+#⚡ AR-QR Lab
 
 📜 Project Overview:
 
