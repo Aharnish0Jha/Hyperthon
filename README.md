@@ -1,4 +1,5 @@
-#⚡ AR-QR Lab
+# ⚡AR-QR Lab
+---
 
 📜 Project Overview:
 
